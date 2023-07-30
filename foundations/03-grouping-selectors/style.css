@@ -1,17 +1,17 @@
-.first, .second
+.testing, .another
 {
-    font-size: 28px;
+    font-size: 100px;
     font-family: Helvetica, "Times New Roman", sans-serif;
 }
 
-/* .first
+.testing
 {
     background-color: black;
     color: rgb(200, 200, 200);
 }
 
-.second
+.another
 {
-    background-color: hsl(60, 80, 60%);
+    background-color: rgb(200, 200, 0);
     color: black;
-} */
+}
